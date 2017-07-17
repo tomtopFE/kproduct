@@ -1,0 +1,13 @@
+*{margin:0;padding:0;}
+.tab{width:80%;margin:20px auto 0;max-width:1200px;}
+.tab h2{text-align:center;}
+.tab .tab-nav{width:100%;list-style-type:none;text-align:center;margin:10px 0;}
+.tab .tab-nav li{display:inline-block;padding:10px;border-bottom:2px solid #ffffff;cursor:pointer;}
+.tab .tab-nav li:hover{border-bottom-color:#29a7ff;}
+.tab .tab-nav li.active{border-bottom-color:#29a7ff;}
+.tab .tab-items{width:100%;}
+.item{display:none;position:relative;}
+.item.show{display:block;}
+.item .copy{position:absolute;right:0px;top:-32px;cursor:pointer;border:1px solid #fff;padding:2px;}
+.item .copy.success{border-color:#60a917;}
+.item textarea{width:100%;min-height:500px;padding:10px;}
