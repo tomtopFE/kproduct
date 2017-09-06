@@ -1,0 +1,15 @@
+{
+	"s1_title": "Bluetooth & Wi-Fi Smart Health Scale",
+	"s2_title": "Accurately Measure 8 Body Composition Health Data",
+	"s2_text": "With four sensors and BIA (Bioelectrical Impedance Analysis) technology, Koogeek Smart Health Scale accurately measures your weight, BMI (Body Mass Index), body fat mass, lean mass, bone mass, total body water, BMR (Basal Metabolic Rate) and visceral fat.",
+	"s2_icon1": [
+		"重量"
+	],
+	"s2_icon2": "Body fat",
+	"s2_icon3": "BMI",
+	"s2_icon4": "Body water",
+	"s2_icon5": "BMR",
+	"s2_icon6": "Bone mass",
+	"s2_icon7": "Visceral fat",
+	"s2_icon8": "Lean mass"
+}
