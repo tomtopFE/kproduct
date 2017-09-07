@@ -33,5 +33,13 @@
 	"s6_group3": "Wi-Fi sync:",
 	"s6_group4": "\n                           The long range of Wi-Fi is great for weighing anywhere in your house and every data will be uploaded to your iOS or Android device via our Cloud Server, even when you are not at home.\n                        ",
 	"s7_title": "Sturdy & Stylish Design",
-	"s7_text": "Designed with a polished ITO tempered glass surface and a blue LED display, the scale is durable for everyday use. In addition, special oval corners protect the safety of both you and your family."
+	"s7_text": "Designed with a polished ITO tempered glass surface and a blue LED display, the scale is durable for everyday use. In addition, special oval corners protect the safety of both you and your family.",
+	"s2_icon_p1": "Weight",
+	"s2_icon_p2": "Body fat",
+	"s2_icon_p3": "BMI",
+	"s2_icon_p4": "Body water",
+	"s2_icon_p5": "BMR",
+	"s2_icon_p6": "Bone mass",
+	"s2_icon_p7": "Visceral fat",
+	"s2_icon_p8": "Lean mass"
 }
