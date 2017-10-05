@@ -25,10 +25,10 @@
 	"s12_text": "Watch the product film",
 	"s12_icon1": "注意！",
 	"s12_icon2": "开关的安装涉及到强电操作，如果您不熟悉安装操作过程，务必请专业电工进行协助！",
-	"s13_title": "Intelligent Control Panel",
-	"s13_text": "Adopt industrial-grade IOT chip with low-power consumption from 0.75W to 1 W.",
-	"s13_tip1": "High-polished PC panel",
-	"s13_tip2": "Inching switch can withstand up to 50,000 times of press and work up to 10 years.",
-	"s13_tip3": "Intelligent Control Panel adopts industrial-grade IOT intelligent chip with low-power consumption from 0.75W to 1 W.",
-	"s13_tip4": "In-wall back panel"
+	"s13_title": "智能芯片",
+	"s13_text": "0.75~1W的低待机功耗，MW系列工业级IOT芯片。",
+	"s13_tip1": "高抛光PC面板",
+	"s13_tip2": "微动开关，按键可按压50000次，使用寿命长达10年",
+	"s13_tip3": "智能芯片，（MW系列）工业级IOT芯片0.75~1W的低待机功耗",
+	"s13_tip4": "入墙背板"
 }
