@@ -1,18 +1,18 @@
 {
 	"s1_title": "Wi-Fi智能LED调色灯带",
 	"s2_title": "支持Siri语音控制",
-	"s2_text": "内置Apple HomeKit技术，可以安全在iPhone、iPad、iPod touch或Apple Watch上使用Koogeek Home app和Siri打开或关闭连接的灯带、更改灯光颜色或者调整亮度，及其简单。",
+	"s2_text": "Apple HomeKit技术提供了一种简单、安全的方式，可以在iPhone、iPad、iPod touch或Apple Watch上使用Koogeek Home app和Siri打开或关闭连接的灯带、更改灯光颜色或者调整亮度。",
 	"s3_title": "超级灵活\n",
 	"s3_text": "   可将2米灯带变成几乎任何您想要的形状，使用背面的粘胶将其粘贴到大多数干净、干燥和平整的固体表面，如墙壁、床、橱柜、电视机背面、沙发、楼梯等。可以灵活地勾勒角落轮廓并突显建筑特征。如果需要，您可以沿剪刀标记将智能灯带裁剪至合适长度。",
 	"s4_title": "1600万色 亮度色温灵活调节",
 	"s4_text": "1600万种颜色可供选择，每种颜色均可调光，您可以让灯光随心改变，个性化您的家。",
-	"s5_title": "智能保存灯光设置 一键开启\n",
-	"s5_text": "可创建场景，同时控制多个灯带，每个灯带可以设置不同的颜色和明亮度。可通过轻点场景、设置定时来开启或关闭场景，或者直接让Siri来执行。",
-	"s6_title": "定时开关 省心省力",
+	"s5_title": "同时控制多个智能灯带",
+	"s5_text": "可创建场景，同时控制多个智能灯带，每个灯带可以设置不同的颜色和明亮度。智能保存灯光设置。可通过轻点场景、设置定时来开启或关闭场景，或者直接让Siri来执行。",
+	"s6_title": "定时开关 省心省电",
 	"s6_text": "\n可为设备或场景设置日程和定时器，已连接的灯带会在特定时间自动打开或关闭。",
-	"s7_title": "Simple Setup",
-	"s1_text": "Connect it to a USB power source. Configure it from the Koogeek Home app over a 2.4 GHz Wi-Fi network. No hub or bridge required.",
-	"s8_title": "Automate and Remotely Access",
-	"s8_text": "You can set up your Apple TV or iPad as a home hub to control your HomeKit accessories remotely, grant access, and automate your accessories.",
-	"s8_icon": "Learn More >"
+	"s7_title": "设置简易",
+	"s1_text": "不需网关或网桥，连接2.4 GHz Wi-Fi网络，使用Koogeek Home app进行配置，即可通过您的智能设备享受远程访问和控制。",
+	"s8_title": "自动化和远程访问",
+	"s8_text": "您可以将Apple TV 4K、Apple TV或iPad设置为家居中枢，远程控制智能灯带，给予信任的人访问权限，以及让智能灯带实现自动化。",
+	"s8_icon": "了解更多 >"
 }
