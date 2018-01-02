@@ -30,7 +30,7 @@
 	"s8_spec5": "Home Wi-Fi (802.11 b/g/n)",
 	"s8_spec6": "WPA or WPA2 network security",
 	"s9_title": "Works with Amazon Alexa",
-	"s9_text": "Both the AC outlet and the LED night light respond to Alexa, after successfully pairing with an Alexa device, you can directly ask Alexa to turn them on or off or adjust the night light brightness using your voice.",
+	"s9_text": "The AC outlet could respond to Alexa. After successfully pairing with an Alexa device, you can directly ask Alexa to turn it on or off.",
 	"s10_title": "Works with the Google Assistant",
 	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home."
 }
