@@ -31,6 +31,6 @@
 	"s8_spec6": "WPA or WPA2 network security",
 	"s9_title": "兼容Amazon Alexa",
 	"s9_text": "兼容Alexa。插座成功与Alexa设备配对后，您可以直接使用Alexa将其打开或关闭。",
-	"s10_title": "Works with the Google Assistant",
-	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home."
+	"s10_title": "支持 Google Assistant",
+	"s10_text": "即使您没有Google Home设备，也可以使用Google智能助理进行语音控制。"
 }
