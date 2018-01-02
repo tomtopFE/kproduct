@@ -29,8 +29,8 @@
 	"s8_spec4": "System requirements:",
 	"s8_spec5": "Home Wi-Fi (802.11 b/g/n)",
 	"s8_spec6": "WPA or WPA2 network security",
-	"s9_title": "Works with Amazon Alexa",
-	"s9_text": "AC插座兼容Alexa。插座成功与Alexa设备配对后，您可以直接使用Alexa将其打开或关闭。",
+	"s9_title": "兼容Amazon Alexa",
+	"s9_text": "兼容Alexa。插座成功与Alexa设备配对后，您可以直接使用Alexa将其打开或关闭。",
 	"s10_title": "Works with the Google Assistant",
 	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home."
 }
