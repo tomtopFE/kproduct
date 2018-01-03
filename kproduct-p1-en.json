@@ -2,9 +2,9 @@
 	"s1_title": "Wi-Fi Enabled Smart Plug",
 	"s1_text": "Use the Koogeek Home app and Siri, Alexa, or Google Assistant voice commands to control your devices.",
 	"s2_title": "Hey Siri ......",
-	"s2_text": "Control connected lamps, fans and other appliances using Siri voice commands directly from your iOS device without launching the Koogeek Home app.",
+	"s2_text": "Control connected lamps, fans and other appliances using Siri voice commands directly from your iOS device without launching the app.",
 	"s3_title": "Using Apple HomeKit Technology",
-	"s3_text": "With Apple HomeKit technology, you can control any of the \"Works with Apple HomeKit\" accessories that you have in your home using your iPhone, iPad, or iPod touch and Siri voice commands.",
+	"s3_text": "With Apple HomeKit technology, you can control any of the \"Works with Apple HomeKit\" accessories that you have in your home using the Koogeek Home app (Apple Home app) and Siri on your iPhone, iPad, iPod touch, or Apple Watch.",
 	"s3_icon1": "Monitor       power consumption",
 	"s3_icon2": "Set schedules & timers",
 	"s3_icon3": "Remotely turn on/off",
@@ -30,7 +30,7 @@
 	"s8_spec5": "Home Wi-Fi (802.11 b/g/n)",
 	"s8_spec6": "WPA or WPA2 network security",
 	"s9_title": "Works with Amazon Alexa",
-	"s9_text": "After successfully pairing with an Alexa device, you can directly ask Alexa to turn it on or off.",
+	"s9_text": "After successfully pairing with your Amazon Echo, you can directly ask Alexa to turn it on or off.",
 	"s10_title": "Works with the Google Assistant",
 	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home."
 }
