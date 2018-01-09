@@ -13,7 +13,7 @@
 	"s6_text1": "For iOS devices only, you can set up your Apple TV (with tvOS 10.1 or later) or iPad (with iOS 10.1 or later) as a home hub, then you can control connected devices from anywhere.",
 	"s6_text2": "Or configure the Alexa connection, then wherever you have Internet access (over cellular data or Wi-Fi), you can directly control and monitor connected devices with either iOS devices or Android devices from anywhere, no hub required.",
 	"s7_title": "跨设备同步和共享",
-	"s7_text": "配置 Alexa 连接后，已连接的设备的开关状态和控制可在 iOS 设备和 Android 设备上同步并共享。",
+	"s7_text": "配置 Alexa 连接后，已连接的设备的开关状态和控制可在 iOS 设备和安卓设备上同步并共享。",
 	"s8_title": "智能小夜灯 亮度可调",
 	"s8_text": "智能插座上的 LED 小夜灯同样兼容 Apple HomeKit 和 Alexa。您可以吩咐 Siri 或 Alexa 打开/关闭夜灯并设置亮度。",
 	"s9_title": "电量监控",
