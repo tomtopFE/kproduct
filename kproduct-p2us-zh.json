@@ -4,7 +4,7 @@
 	"s2_title": "Hey, Siri",
 	"s2_text": "无需打开 app，直接使用您 iOS 设备的 Siri 语音控制 LED 小夜灯和已连接的灯、风扇或者其它设备。",
 	"s3_title": "兼容 Amazon Alexa",
-	"s3_text": "智能插座与 Amazon Echo 连接成功后，您可以直接使用 Alexa 语音控制将其打开或关闭。",
+	"s3_text": "智能插座与 Amazon Echo 连接成功后，您可以直接使用 Alexa 语音控制 LED 小夜灯和已连接的设备。",
 	"s4_title": "创建场景 同时控制",
 	"s4_text": "在 iOS 设备上，使用场景可以同时控制多个支持 HomeKit 的配件。",
 	"s5_title": "自动化您的家",
