@@ -1,10 +1,10 @@
 {
 	"s1_title": "Smart Plug with Dimmable LED",
 	"s1_text": "Switch connected electrical appliances on and off from anywhere. Know how much power they’re using and light up your way at night.",
-	"s2_title": "Siri",
-	"s2_text": "Voice Control",
-	"s3_title": "Alexa",
-	"s3_text": "Voice Control",
+	"s2_title": "Hey, Siri",
+	"s2_text": "Control connected lamps, fans, and other appliances using Siri voice commands directly from your iOS device without launching the app.",
+	"s3_title": "Works with Amazon Alexa",
+	"s3_text": "After successfully pairing with your Amazon Echo, you can directly ask Alexa to turn it on or off.",
 	"s4_title": "Set Scenes",
 	"s4_text": "Scenes enable you to control multiple HomeKit-enabled accessories simultaneously.",
 	"s5_title": "Automation",
@@ -25,5 +25,9 @@
 	"s11_icon3": "Outlets: off",
 	"s11_icon4": "Environment Monitor: PM2.5: 25ug/m3 Temperature:26。Humidity:50%",
 	"s12_icon1": "Light Strip: yellow",
-	"s12_icon2": "Door & Window Sensor: Open"
+	"s12_icon2": "Door & Window Sensor: Open",
+	"s1_txt": "Switch connected electrical appliances on and off from anywhere. Know how much power they’re using and light your way in the night. ",
+	"s5_txt": "Set timers for lights, humidifiers, fans, and other vital devices via Koogeek Home app. Wake up with lights-on and coffee ready in the morning. (Note: Not support Android devices)",
+	"s6_txt1": "For iOS devices only, you can set up your Apple TV (with tvOS 10.1 or later) or iPad (with iOS 10.1 or later) as a home hub, then you can control connected devices from anywhere.",
+	"s6_txt2": "Or configure the Alexa connection, then wherever you have Internet access (over cellular data or Wi-Fi), you can directly control and monitor connected devices with either iOS devices or Android devices from anywhere, no hub required."
 }
