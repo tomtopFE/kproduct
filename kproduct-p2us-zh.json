@@ -2,14 +2,14 @@
 	"s1_title": "Wi-Fi 智能插座 自带可调光LED小夜灯",
 	"s1_text": "随时随地打开和关闭已连接的电器。 \n电量消耗情况，随时掌握。 \n晚上还可为您照亮前方。",
 	"s2_title": "Hey, Siri",
-	"s2_text": "无需打开 app，直接使用您 iOS 设备的 Siri 语音控制已连接的灯、风扇或者其它设备。",
+	"s2_text": "无需打开 app，直接使用您 iOS 设备的 Siri 语音控制 LED 小夜灯和已连接的灯、风扇或者其它设备。",
 	"s3_title": "兼容 Amazon Alexa",
 	"s3_text": "智能插座与 Amazon Echo 连接成功后，您可以直接使用 Alexa 语音控制将其打开或关闭。",
 	"s4_title": "创建场景 同时控制",
 	"s4_text": "在 iOS 设备上，使用场景可以同时控制多个支持 HomeKit 的配件。",
-	"s5_title": "Automation",
+	"s5_title": "自动化您的家",
 	"s5_text": "Set timers for lights, humidifiers, fans, and other vital devices via Koogeek Home app. Wake up with lights-on and coffee ready in the morning. (Note: Not support Android devices)",
-	"s6_title": "Remote Control From Anywhere",
+	"s6_title": "随时随地 远程控制",
 	"s6_text1": "For iOS devices only, you can set up your Apple TV (with tvOS 10.1 or later) or iPad (with iOS 10.1 or later) as a home hub, then you can control connected devices from anywhere.",
 	"s6_text2": "Or configure the Alexa connection, then wherever you have Internet access (over cellular data or Wi-Fi), you can directly control and monitor connected devices with either iOS devices or Android devices from anywhere, no hub required.",
 	"s7_title": "跨设备同步和共享",
@@ -27,7 +27,7 @@
 	"s12_icon1": "Light Strip: yellow",
 	"s12_icon2": "Door & Window Sensor: Open",
 	"s1_txt": "Switch connected electrical appliances on and off from anywhere. Know how much power they’re using and light your way in the night. ",
-	"s5_txt": "Set timers for lights, humidifiers, fans, and other vital devices via Koogeek Home app. Wake up with lights-on and coffee ready in the morning. (Note: Not support Android devices)",
-	"s6_txt1": "For iOS devices only, you can set up your Apple TV (with tvOS 10.1 or later) or iPad (with iOS 10.1 or later) as a home hub, then you can control connected devices from anywhere.",
-	"s6_txt2": "Or configure the Alexa connection, then wherever you have Internet access (over cellular data or Wi-Fi), you can directly control and monitor connected devices with either iOS devices or Android devices from anywhere, no hub required."
+	"s5_txt": "通过 Koogeek Home app 为已连接的灯、加湿器、风扇和其他重要设备设置定时器。 清晨醒来，灯光已为您打开，咖啡也为您准备好。 （注意：安卓设备暂不支持此功能。）",
+	"s6_txt1": "将 Apple TV（tvOS 10.1 或更高版本）或 iPad（iOS 10.1 或更高版本）设置为家居中枢，您就可以用 iOS 设备远程控制已连接的设备。",
+	"s6_txt2": "或者您也可以配置 Alexa 连接。配置 Alexa 连接后，在任何有互联网接入的地方（连接蜂窝数据或 Wi-Fi），您都可以使用 iOS 设备或安卓设备直接控制和监控已连接的设备，而无需使用集线器。"
 }
