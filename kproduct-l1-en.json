@@ -1,7 +1,7 @@
 {
 	"s1_text": "Smart Door Lock",
 	"s2_title": "Various Accesses",
-	"s2_text": "fingerprint, password, induction card, key, Siri and Koogeek Home app.",
+	"s2_text": "Fingerprint, password, induction card, key, Siri and Koogeek Home app.",
 	"s3_title": "Bluetooth Smart Technology",
 	"s3_text": "Designed to work with Apple HomeKit using Bluetooth Smart technology.",
 	"s4_title": "Infrared Human Detection",
@@ -11,7 +11,7 @@
 	"s6_title": "Fingerprint Identification",
 	"s6_text": "Up to 100 different fingerprints can be stored and 100,000 open records can be stored and searched.",
 	"s7_title": "OLED Display",
-	"s7_text": "Responsive touchscreen is visible day or night",
+	"s7_text": "Responsive touchscreen is visible day or night.",
 	"s8_title": "Standard Anti-theft Lock Body",
 	"s8_text": "Built with the high strength alloy shell and stainless steel lock-tongue, strong and paired seamlessly with the security lock.",
 	"s9_title": "Reversible Handle",
@@ -20,7 +20,7 @@
 	"s10_text": "Low battery alert lets you know when it’s time to change batteries.",
 	"s2_icon": "Low battery alert",
 	"s11_title": "Multiple Protection",
-	"s11_text": "Allow you type any number of random digits, and can still gain access as long as the 1 correct password is embedded in the longer set of numbers.",
+	"s11_text": "Allow you to type any number of random digits, and can still gain access as long as the 1 correct password is embedded in the longer set of numbers.",
 	"s12_title": "Super Security",
 	"s12_text": "Automatically lock when timeout."
 }
