@@ -32,5 +32,7 @@
 	"s9_title": "Works with Amazon Alexa",
 	"s9_text": "After successfully pairing with your Amazon Echo, you can directly ask Alexa to turn it on or off.",
 	"s10_title": "Works with the Google Assistant",
-	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home."
+	"s10_text": "You can use the Google Assistant for voice control, even if you don't have a Google Home.",
+	"s9_atxt": "https://www.koogeek.com/alexahelp-p1.html",
+	"s10_atxt": "https://www.koogeek.com/p1-google-assistant-help.html"
 }
