@@ -1,14 +1,14 @@
 {
-	"s1_title": "Door & Window Sensor",
-	"s2_title": "Automatic Trigger",
-	"s2_text": "Set up an automatic trigger on the Koogeek app to control other Koogeek accessories. For example, when you open the door at a selected time, the bedroom light will be automatically turned on.\n                ",
-	"s3_title": "Works with Koogeek Home app/ Apple Home app",
-	"s4_title": "Easy Installation",
-	"s5_title": "Advanced Security",
-	"s5_text": "HomeKit security communications are encrypted between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch.",
-	"s6_title": "Simple Battery Replacement",
-	"s7_title": "Monitor Several Sensors",
-	"s7_text": "Install more than one sensor in different places and name them respectively. Then all the statuses of doors / windows will be displayed simultaneously on your phone screen.\n                ",
-	"s8_title": "Remote Access",
-	"s8_text": "You can set up your Apple TV (4th generation or later with tvOS 10.1 or later) or iPad (running iOS 10.1 or later) as a home hub and remotely check the status of your home at a glance."
+	"s1_title": "门磁传感器",
+	"s2_title": "自动化触发",
+	"s2_text": "在Koogeek app上设置一个自动化触发控制其他Koogeek配件。例如，当您在某个特定的时间点打开门时，可以触发打开卧室灯。",
+	"s3_title": "Koogeek Home app/ Apple Home app 应用",
+	"s4_title": "安装简便",
+	"s5_title": "高级安全性",
+	"s5_text": "HomeKit安全通行技术支持HomeKit配件和您的iPhone / iPad / iPod touch进行加密。",
+	"s6_title": "简单电池替换操作",
+	"s7_title": "监测多个传感器",
+	"s7_text": "在不同的地方安装多个传感器，并分别给它们命名。所有门窗的状态都会同时显示在您的手机屏幕上。",
+	"s8_title": "远程访问",
+	"s8_text": "您可以将Apple TV（第4代或更新机型，系统版本tvOS 10.1或者以上），或者iPad（系统版本iOS 10.1或者以上）设置为家庭中枢，远程查看您家中的状态。"
 }
