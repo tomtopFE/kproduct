@@ -26,5 +26,9 @@
 	"s10_text": "注意： 开关的安装涉及到强电操作，如果您不熟悉安装操作过程，务必请专业电工进行协助！",
 	"s11_title": "选择最适合您的开关",
 	"s2_iocn4": "室外灯",
-	"s8_iocn1": "The switch will automatically cut off when the internal temperature reaches 85。C or the current is over 12A. Adopt V-0 grade flame-retardant PC panel. "
+	"s8_iocn1": "The switch will automatically cut off when the internal temperature reaches 85。C or the current is over 12A. Adopt V-0 grade flame-retardant PC panel. ",
+	"s2_iocn2": "风扇",
+	"s2_iocn3": "加湿器",
+	"s8_iocn2": "The built-in protect circuit can prevent surge current and ensure the regular and reliable operation of the switch.",
+	"s8_iocn3": "Provide advanced security with end-to-end encryption and authentication between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch."
 }
