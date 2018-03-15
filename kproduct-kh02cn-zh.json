@@ -29,6 +29,6 @@
 	"s8_iocn1": "The switch will automatically cut off when the internal temperature reaches 85。C or the current is over 12A. Adopt V-0 grade flame-retardant PC panel. ",
 	"s2_iocn2": "风扇",
 	"s2_iocn3": "加湿器",
-	"s8_iocn2": "The built-in protect circuit can prevent surge current and ensure the regular and reliable operation of the switch.",
-	"s8_iocn3": "Provide advanced security with end-to-end encryption and authentication between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch."
+	"s8_iocn2": "内置保护电路可以防止浪涌电流，确保开关的正常可靠工作。",
+	"s8_iocn3": "提供高级安全性，为支持 HomeKit 的配件和 iPhone、iPad 或 iPod touch 之间提供端到端加密和身份验证。"
 }
