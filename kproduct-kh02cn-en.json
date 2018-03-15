@@ -26,5 +26,9 @@
 	"s10_text": "TIPS: This is an electrical shock hazard. Please call a professional electrician if you are unfamiliar or uncomfortable with electrical work.",
 	"s11_title": "Find the Option Most Fits You",
 	"s2_iocn4": "Exterior Lights",
-	"s8_iocn1": "The switch will automatically cut off when the internal temperature reaches 85°C or the current is over 12A. Adopt V-0 grade flame-retardant PC panel."
+	"s8_iocn1": "The switch will automatically cut off when the internal temperature reaches 85°C or the current is over 12A. Adopt V-0 grade flame-retardant PC panel.",
+	"s2_iocn2": "Fans",
+	"s2_iocn3": "Humidifier",
+	"s8_iocn2": "The built-in protect circuit can prevent surge current and ensure the regular and reliable operation of the switch.",
+	"s8_iocn3": "Provide advanced security with end-to-end encryption and authentication between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch."
 }
