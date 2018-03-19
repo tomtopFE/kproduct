@@ -30,5 +30,6 @@
 	"s2_iocn2": "Fans",
 	"s2_iocn3": "Humidifier",
 	"s8_iocn2": "The built-in protect circuit can prevent surge current and ensure the regular and reliable operation of the switch.",
-	"s8_iocn3": "Provide advanced security with end-to-end encryption and authentication between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch."
+	"s8_iocn3": "Provide advanced security with end-to-end encryption and authentication between a HomeKit-enabled accessory and your iPhone, iPad, or iPod touch.",
+	"s10_icon": "Neutral wire is required."
 }
