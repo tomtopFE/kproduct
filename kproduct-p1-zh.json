@@ -34,5 +34,6 @@
 	"s10_title": "兼容 Google Assistant",
 	"s10_text": "即使没有 Google Home 音箱，您也可以使用 Google Assistant 进行语音控制。",
 	"s9_atxt": "配对说明 >",
-	"s10_atxt": "配对说明 >"
+	"s10_atxt": "配对说明 >",
+	"s9_tips": "注意: P1-1在功能上与Alexa兼容，认证正在审核中。"
 }
