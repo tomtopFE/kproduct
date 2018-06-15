@@ -1,7 +1,7 @@
 {
 	"s1_title": "Wi-Fi 智能排插",
 	"s2_text": [
-		"带浪涌保护功能的多功能智能排插配备3个交流电源插座和3个USB充电口。电源插座可单独控制，只需连接 Wi-Fi，就可智能远程控制。轻松升级您的家！",
+		"多功能智能排插配备 3 个 AC 电源插座和 3 个 USB 充电口，内置浪涌保护功能。电源插座可单独控制，只需连接 Wi-Fi，就可智能远程控制。轻松升级您的家！",
 		"3 个 AC 电源插座可单独开关且支持 Wi-Fi 连接。每个 AC 电源插座均配备独立的电源开关和 LED 指示灯。"
 	],
 	"s2_title": "3 个 AC 插座 支持独立控制",
@@ -21,11 +21,11 @@
 	"s4_icon10": "德语",
 	"s4_icon11": "日语",
 	"s4_icon12": "法语",
-	"s5_title": "3 Smart USB Charging Ports",
-	"s5_text": "Intelligently detect connected devices and support safe and fast charging for up to three devices simultaneously, with a total output current of up to 4.1A. Compatible with iPhone,iPad, iPod, or other USB-powered devices.",
-	"s6_title": "Sync and Share across Devices",
-	"s6_text": "After successfully configuring Alexa or connecting to the Google Assistant, the ON/OFF status and control of connected devices are synced and shared across iOS devices and Android devices.",
-	"s6_icon": "Note: Connect to the same Wi-Fi network when configuring.",
+	"s5_title": "3 个 USB 口 智能充电",
+	"s5_text": "可智能检测连接的设备，支持同时给最多 3 个设备安全快速充电，总输出电流高达 4.1A。适用设备包括 iPhone、iPad、iPod 或其他 USB 供电设备。",
+	"s6_title": "跨设备同步和共享",
+	"s6_text": "配置 Alexa 或 Google Assistant 后，已连接的设备的开关状态和控制可在 iOS 设备和安卓设备上同步并共享。",
+	"s6_icon": "注意：配置时，确保连接到相同的 Wi-Fi。",
 	"s7_title": "Create Scenes to Control Multiple Accessories",
 	"s7_text": "On your iOS devices, you can use a suggested scene or create a custom one to control multiple accessories at the same time.",
 	"s8_title": "Remote Control Whenever and Wherever You Are",
