@@ -1,10 +1,8 @@
 {
 	"s1_title": "Wi-Fi Enabled Smart Outlet",
-	"s2_text": [
-		"The multifunction smart power strip with surge protection features three independent control smart AC outlets and three USB charging ports. Take your home to the next level easily!",
-		"The three AC outlets are separately switchable and Wi-Fi enabled. Come with a power switch and a LED indicator for each AC outlet."
-	],
+	"s1_text": "The multifunction smart power strip with surge protection features three independent control smart AC outlets and three USB charging ports. Take your home to the next level easily!",
 	"s2_title": "3 Independent Control AC Outlets",
+	"s2_text": "The three AC outlets are separately switchable and Wi-Fi enabled. Come with a power switch and a LED indicator for each AC outlet.",
 	"s3_title": "Stay Connected with Multiple Platforms.",
 	"s3_text": "The three smart AC outlets work with Apple HomeKit and the Google Assistant, and compatible with Amazon Alexa. You can use your voice to ask Siri, or use Amazon Echo, or Google Home to turn it on or off. You can use the Google Assistant for voice control, even if you don't have a Google Home. ",
 	"s4_text1": "Google Assistant currently supported languages:",
