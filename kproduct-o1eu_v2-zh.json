@@ -34,7 +34,7 @@
 	"s8_icon4": "总输出: 直流 5V / 4.1安 (最大.)",
 	"s9_title": "随时随地远程控制",
 	"s9_text": "成功配置Alexa或连接到Google Assistant后，无论您在何处，只要在您的移动设备连接到互联网（通过蜂窝网络，例如4G LTE / 3G或任何Wi-Fi网络），即使您不在家，您都可以使用iOS设备或Android远程控制和监控已连接的设备。",
-	"s10_text": "Note: If Alexa or the Google Assistant connection is not configured, controlling HomeKit-enabled accessories from your iOS devices over your cellular networks or other Wi-Fi networks requires your Apple TV or iPad set up as a home hub.",
+	"s10_text": "注意：如果未配置Alexa或Google Assistant，则通过蜂窝网络或其他Wi-Fi网络从iOS设备控制支持HomeKit的设备需，要将Apple TV或iPad设置为家庭中心。",
 	"s11_title": "设置定时和倒计时",
 	"s11_text": "您可以通过iOS设备为任何已连接的设备或场景设置定时和倒计时。它将会在特定的时间自动打开或关闭一个或者多个设备。",
 	"s12_title": "安全友好",
